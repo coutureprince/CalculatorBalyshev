@@ -50,6 +50,6 @@ https://user-images.githubusercontent.com/109080032/202012331-db0bcb99-67b4-4ecb
 ![image](https://user-images.githubusercontent.com/109080032/202014086-fc235fcc-8383-4054-a131-8b8f96d1d2cc.png)
 
 
-После запуска всех тестов, мы можем увидеть, что все тесты выполнены успешно.
+После запуска всех тестов, мы можем увидеть, что все тесты пройдены успешно.
 ![image](https://user-images.githubusercontent.com/109080032/202016331-b4568020-dd84-477d-9acc-0f038cfbc63a.png)
 
