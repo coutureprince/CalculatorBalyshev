@@ -32,7 +32,7 @@ namespace Calculator.Tests
         }
       
         [Fact]
-        public void TestSubtractResultFife()
+        public void TestSubtractResultNine()
         {
             Calculation calculation = new();
             string result = calculation.ProcessStatement("", "7+2");
@@ -40,7 +40,7 @@ namespace Calculator.Tests
         }
                     
         [Fact]
-        public void TestSubtractResultMinusFour()
+        public void TestSubtractResultMinusOne()
         {
             Calculation calculation = new();
             string result = calculation.ProcessStatement("", "4-5");
